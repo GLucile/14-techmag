@@ -10,4 +10,14 @@ html {
 body {
   max-width: 320px;
   margin: auto;
+  background-color: black;
+}
+
+header {
+  border: white solid 2px;
+  margin: 19px 19px 10px 19px;
+}
+
+.backgroundheader {
+  overflow: hidden;
 }
