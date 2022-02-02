@@ -16,8 +16,26 @@ body {
 header {
   border: white solid 2px;
   margin: 19px 19px 10px 19px;
+  color: white;
+  background-image: url("img/lignes-code.jpg");
 }
 
-.backgroundheader {
-  overflow: hidden;
+header h1 {
+  font-family: sans-serif;
+}
+
+header p {
+  font-family: sans-serif;
+}
+
+.year {
+  color: rgb(1, 255, 188);
+  font-family: sans-serif;
+}
+
+.card {
+  background-color: rgb(0, 252, 166);
+  color: rgb(14, 102, 71);
+  font-family: sans-serif;
+  margin: 10px 19px;
 }
