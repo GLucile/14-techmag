@@ -14,20 +14,16 @@ body {
   font-family: sans-serif;
 }
 
-header {
+.site-header {
   border: white solid 2px;
   color: white;
   margin: 20px 20px 10px 20px;
-  background-image: url("img/lignes-code.jpg");
+  padding: 50px 40px 55px 30px;
+  background-image: url("../img/lignes-code.jpg");
 }
 
 .magazine {
   color: white;
-}
-
-header h1 {
-  font-family: sans-serif;
-  color: black;
 }
 
 header p {
@@ -44,7 +40,7 @@ header p {
   color: rgb(14, 102, 71);
   font-size: 16px;
   padding: 35px 47px 47px 30px;
-  margin: 10px 19px;
+  margin: 20px 20px;
 }
 
 .card h3 {
@@ -54,7 +50,7 @@ header p {
 article {
   background-color: white;
   margin: 10px 20px;
-  padding: 15px 15px;
+  padding: 25px 15px;
 }
 
 figure {
