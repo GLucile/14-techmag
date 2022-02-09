@@ -16,14 +16,18 @@ body {
 
 header {
   border: white solid 2px;
-  margin: 19px 19px 10px 19px;
   color: white;
+  margin: 20px 20px 10px 20px;
   background-image: url("img/lignes-code.jpg");
-  padding: 40px 40px 40px 30px;
+}
+
+.magazine {
+  color: white;
 }
 
 header h1 {
   font-family: sans-serif;
+  color: black;
 }
 
 header p {
@@ -49,8 +53,17 @@ header p {
 
 article {
   background-color: white;
-  padding: 30px;
   margin: 10px 20px;
+  padding: 15px 15px;
+}
+
+figure {
+  box-shadow: 2px rgb(231, 231, 231);
+  margin: 15px;
+}
+
+figcaption {
+  color: black;
 }
 
 .origines {
@@ -77,4 +90,5 @@ footer {
   text-align: center;
   border: solid rgb(0, 255, 167);
   margin: 20px 20px;
+  box-shadow: rgb(214, 214, 214);
 }
