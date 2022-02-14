@@ -11,7 +11,7 @@ body {
   max-width: 320px;
   margin: auto;
   background-color: black;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .site-header {
@@ -23,8 +23,8 @@ body {
 }
 
 .site-header h1 {
-  font-size: 25px;
-  margin-bottom: 22px;
+  font-size: 29px;
+  margin-bottom: 17px;
 }
 
 .magazine {
@@ -38,7 +38,7 @@ body {
 
 .year {
   color: rgb(1, 255, 188);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-style: italic;
 }
 
@@ -52,8 +52,9 @@ body {
 }
 
 .card h3 {
-  font-size: 15px;
-  margin-bottom: 20px;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  margin: 15px 0 20px;
 }
 
 article {
@@ -65,8 +66,8 @@ article {
 }
 
 article h3 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
   margin-top: 0;
 }
 
@@ -81,17 +82,22 @@ figure {
 
 figcaption {
   color: black;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .drone {
-  padding: 5px 10px 5px 10px;
+  padding: 5px 10px;
+}
+
+.screen-mac {
+  font-size: 12px;
+  padding: 5px 8px 5px 10px;
 }
 
 .origines {
   color: rgb(169, 169, 169);
   font-size: 12px;
-  margin: 21px 0 20px;
+  margin: 15px 0 15px;
 }
 
 .publish {
@@ -105,8 +111,8 @@ figcaption {
 a {
   background-color: rgb(68, 68, 68);
   color: white;
-  font-size: 12px;
-  padding: 4px 15px 5px;
+  font-size: 12.2px;
+  padding: 3px 15px 3px;
 }
 
 footer {
@@ -114,6 +120,7 @@ footer {
   font-size: 10px;
   text-align: center;
   border: solid rgb(0, 255, 167);
-  margin: 20px 20px;
+  margin:  20px 20px;
+  padding: 5px 0;
   box-shadow: rgb(214, 214, 214);
 }
