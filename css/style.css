@@ -122,9 +122,10 @@ a {
 footer {
   color: white;
   font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   border: solid rgb(0, 255, 167);
   margin:  20px 20px;
-  padding: 5px 0;
+  padding: 3px 0;
   box-shadow: rgb(214, 214, 214);
 }
