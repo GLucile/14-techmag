@@ -53,27 +53,27 @@ body {
 }
 
 .card h3 {
-  font-size: 15px;
+  font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   margin: 15px 0 20px;
 }
 
 article {
   background-color: white;
-  font-family: avenir;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   margin: 10px 20px 21px;
-  padding: 30px 30px 30px;
+  padding: 15px 30px 30px;
 }
 
 article h3 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
-  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin: 40px 0 20px;
 }
 
 article p {
-  margin-bottom: 15px;
+  margin: 16px 0;
 }
 
 figure {
