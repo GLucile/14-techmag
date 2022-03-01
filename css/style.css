@@ -83,7 +83,8 @@ figure {
 
 figcaption {
   color: black;
-  font-size: 13px;
+  font-size: 12px;
+  padding: 5px 0 0 10px;
 }
 
 .drone {
